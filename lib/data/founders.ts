@@ -1,4 +1,4 @@
-import { Founder } from "@/lib/types";
+import { Founder } from "@/lib/types/founder";
 
 export const founders: Founder[] = [
   {
